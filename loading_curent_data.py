@@ -5,8 +5,8 @@
 # import time
 # import os
 # from io import StringIO
-# pd.set_option('display.max_rows', None)
-# pd.options.mode.chained_assignment = None
+pd.set_option('display.max_rows', None)
+pd.options.mode.chained_assignment = None
 #
 #
 # rootDir = "/Netflow"
